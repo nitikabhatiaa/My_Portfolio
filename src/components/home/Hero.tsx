@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-4 opacity-0 animate-fadeIn" style={{ animationDelay: '0.4s' }}>
               <span className="inline-block mb-2">Nitika Bhatia</span>
               <br />
-              <span className="text-blue-600">Software Development Engineer (SDE)</span>
+              <span className="text-blue-600">Machine Learning Engineer</span>
             </h1>
             <p className="text-lg text-gray-600 mb-8 max-w-xl opacity-0 animate-fadeIn" style={{ animationDelay: '0.6s' }}>
            Hi! I’m a Machine Learning Engineer who loves transforming raw data into actionable insights and intelligent solutions. I specialize in building and deploying ML models that are scalable, efficient, and ready for real-world impact. My work spans across data preprocessing, model training, evaluation, and production deployment.</p>
